@@ -304,7 +304,7 @@ it("Should handle concurrent team joining", async () => {
 
 ---
 
-**Audit Date:** December 2024  
+**Audit Date:** September 23, 2025  
 **Auditor:** ashutoshkumarsingh-dev  
 **Codebase Version:** As provided in smart-contracts-refund.zip  
 **Total Lines Analyzed:** ~500 lines of Rust code
